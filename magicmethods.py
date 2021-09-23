@@ -181,7 +181,6 @@ typeconv = [
     '__oct__',
     '__hex__',
     '__index__',
-    '__trunc__',
     '__coerce__',
 ]
 
