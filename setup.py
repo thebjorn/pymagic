@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='magicmethods',
-    version='0.1.2',
+    version='0.1.3',
     py_modules=['magicmethods'],
     long_description=open("README.rst").read(),
     url='https://github.com/thebjorn/pymagic',
